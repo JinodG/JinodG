@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Jinod Gunaikake
-- 👀 I’m interested mostly in Web & Mobile Application Development.
-- 🌱 I’m currently learning Angular, React & Xamarian.
-- 💞️ I’m looking to collaborate on a project which will recognized globally.
-- 📫 How to reach me => Mobile: 0719588127    Email: jinod.g777@gmail.com
+**About me** 👋 
+
+- Hi, I’m Jinod Gunatilake & I'm from Sri Lanka.
+- I’m interested mostly in Web & Mobile Application Development. 
+- Currently learning Angular, React & Xamarin.
+- Always looking to collaborate on a project which will recognized globally. 👀 
+
+**How to reach me:** 📫 
+- [Email](jinod.g777@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jinod-gunatilake-4284a7180/)
+- [Twitter](https://twitter.com/GunatilakeJinod)
+- Mobile:+94 719588127
 
 
 <!---
