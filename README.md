@@ -1,7 +1,7 @@
 **About me** 👋 
 
 - Hi, I’m Jinod Gunatilake & I'm from Sri Lanka.
-- I’m interested mostly in Web & Mobile Application Development. 
+- Interested mostly in Web & Mobile Application Development. 
 - Currently learning Angular, React & Xamarin.
 - Always looking to collaborate on a project which will recognized globally. 👀 
 
