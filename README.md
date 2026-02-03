@@ -1,6 +1,6 @@
 **About me** 👋 
 
-- Hi, I’m Jinod Gunatilake & I'm from Sri Lanka.
+- Hi, I’m Jinod Gunatilake & I'm currently pursuing my Masters in Technology(Software Engineering) in Federation University AU
 - Interested mostly in Web & Mobile Application Development. 
 - Currently learning Angular, React & Xamarin.
 - Always looking to collaborate on a project which will recognized globally. 👀 
