@@ -9,7 +9,7 @@
 - [Email](jinod.g777@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jinod-gunatilake-4284a7180/)
 - [Twitter](https://twitter.com/GunatilakeJinod)
-- Mobile:+94 719588127
+- Mobile:0400 352 678
 
 
 <!---
